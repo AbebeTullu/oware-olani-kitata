@@ -7,5 +7,4 @@ import org.junit.runners.Suite.SuiteClasses;
 { BoardTest.class, MoveTest.class, PitTest.class, TestStoreHouse.class })
 public class AllTests
 {
-
 }
